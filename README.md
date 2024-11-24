@@ -1,4 +1,4 @@
-# MPOX DETECTION API
+# MPOX DETECTION API using COMPUTER VISION 
 
 THIS REPOSITORY HOSTS THE CODE FOR A DEEP LEARNING-BASED MPOX DETECTION API, DESIGNED TO IDENTIFY MPOX LESIONS IN MEDICAL IMAGES USING A YOLO MODEL. THIS API IS INTENDED TO SUPPORT HEALTHCARE APPLICATIONS WHERE EFFICIENT AND ACCURATE DETECTION IS ESSENTIAL.
 
@@ -63,8 +63,8 @@ THE API RETURNS A JSON RESPONSE INDICATING THE STATUS OF THE CASE AND THE NUMBER
 
 	1.	CLONE THE REPOSITORY:
 
-git clone https://github.com/esssyjr/MPOX_DETECTION.git
-cd MPOX_DETECTION
+git clone https://github.com/abrahamoaks/MPOX_DISEASE_DETECTION.git
+cd MPOX_DISEASE_DETECTION
 
 
 	2.	INSTALL DEPENDENCIES:
@@ -81,8 +81,8 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 ## 📊 PROJECT DETAILS
 
 	•	DATASET SOURCES: DATA WAS SOURCED FROM HEHEALTH AND AAGEE AI.
-	•	DATA ANNOTATORS: ABRAHAM, YUSUF, AND ADESUNA.
-	•	PROJECT MANAGEMENT AND MODEL DEVELOPMENT: ISMAIL ISMAIL TIJJANI
+	•	DATA ANNOTATORS: ABRAHAM OBIANKE, YUSUF, AND ADESUNA.
+	•	PROJECT MANAGEMENT AND MODEL DEVELOPMENT: ABRAHAM OBIANKE AND ISMAIL TIJJANI
 	•	PROJECT PURPOSE: DEVELOPED PRIMARILY FOR INNOVATEHEALTHAFRICA TO ENHANCE EARLY DETECTION OF MPOX.
 
 ## ⚠️ LIMITATIONS AND FUTURE IMPROVEMENTS
@@ -103,6 +103,6 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 
 For questions or feedback, please reach out to:
 
-- **Email:** [ismailismailtj@gmail.com](mailto:your-email@example.com)
-- **LinkedIn:** [https://www.linkedin.com/in/ismail-tijjani-31a41b1aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app    ](https://linkedin.com/in/your-linkedin-username)
+- **Email:** [abrahamoaks@gmail.com](mailto: abrahamoaks@gmail.com)
+- **LinkedIn:**[(https://www.linkedin.com/in/abraham-obianke-269112197?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://linkedin.com/in/abraham-obianke)
 
