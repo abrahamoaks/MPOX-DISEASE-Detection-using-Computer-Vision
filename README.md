@@ -104,5 +104,5 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 For questions or feedback, please reach out to:
 
 - **Email:** [abrahamoaks@gmail.com](mailto: abrahamoaks@gmail.com)
-- **LinkedIn:**[(https://www.linkedin.com/in/abraham-obianke-269112197?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://linkedin.com/in/abraham-obianke)
+- **LinkedIn:**[(https://www.linkedin.com/in/abraham-obianke-269112197?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
 
