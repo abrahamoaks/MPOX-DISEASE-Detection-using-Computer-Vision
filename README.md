@@ -101,7 +101,7 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 
 #### 💬 CONTACT
 
-For any questions or feedbacks, please feel free to reach out to me via:
+For any enquiries, questions or feedbacks, feel free to reach out to me via:
 
 - **Email:** [abrahamoaks@gmail.com]
 - **LinkedIn:**[(https://www.linkedin.com/in/abraham-obianke-269112197?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
